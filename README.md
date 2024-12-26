@@ -2,6 +2,18 @@
 
 In this project, we will build a deep learning model using Keras to classify tweets as real or fake in the context of disasters. 🎯 This task is inspired by the "NLP with Disaster Tweets" challenge and enriched with additional data to improve model performance and insights. 📈 The dataset provides a fascinating opportunity to explore Natural Language Processing (NLP) techniques on real-world data. 🌎
 
+<p align="center">
+   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
+
 The dataset contains over 11,000 tweets associated with disaster-related keywords such as "crash," "quarantine," and "bush fires." 🔥 The data structure is based on the original "Disasters on social media" dataset. It includes:
 
 * **Tweets:** The text of the tweet. 💬
