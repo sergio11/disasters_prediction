@@ -1,7 +1,5 @@
 # 🌍 Advanced Classification of Disaster-Related Tweets Using Deep Learning 🚨
 
-## **🚀 Overview**
-
 In this project, we're tackling an exciting challenge: **classifying tweets** to determine whether they’re related to disasters or not. Using cutting-edge **deep learning** techniques, this model sifts through tweet data and helps us understand how **social media** reacts to crises in real-time. Inspired by the **"NLP with Disaster Tweets"** challenge, this project is enhanced with additional data to give us deeper insights into disaster-related topics.
 
 <p align="center">
@@ -103,3 +101,9 @@ We’re not stopping here! There’s still a lot of potential to enhance this pr
 - [Keras Documentation](https://keras.io/)
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [NLP with Disaster Tweets Challenge](https://www.kaggle.com/c/nlp-getting-started)
+
+## **🙏 Acknowledgments**
+
+A huge **thank you** to **Vstepanenko** for providing the dataset that made this project possible! 🌟 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/vstepanenko/disaster-tweets). Your contribution is greatly appreciated! 🙌
+
+🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
