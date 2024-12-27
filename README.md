@@ -81,6 +81,8 @@ The deep learning model implemented for this project follows a **feedforward neu
 4. **Compilation**:  
    The model is compiled using the **Adam optimizer** (a popular choice for training deep learning models) and **binary cross-entropy** loss, which is appropriate for binary classification tasks. Additionally, **accuracy** and **precision** metrics are used to evaluate the performance of the model.
 
+<img src="doc/picture_4.png" />
+
 ### **3. Training the Model** ⏳
 
 To ensure the model is trained effectively and prevents overfitting, I use the following methodology:
@@ -90,6 +92,8 @@ To ensure the model is trained effectively and prevents overfitting, I use the f
 
 2. **Model Fitting**:  
    The model is trained for a maximum of **100 epochs** with a batch size of **1024**. The training process is monitored with validation data (`X_val`, `Y_val`), allowing us to track the model’s performance on unseen data during training.
+
+<img src="doc/picture_3.png" />
 
 ### **4. Evaluation & Insights** 📊
 
@@ -106,11 +110,15 @@ After training, I evaluate the model’s performance on real-world examples to s
    - "Smoke in the air. Stay indoors and monitor local news."
    - "River levels rising. Avoid low-lying areas. Stay informed."
 
+<img src="doc/picture_1.png" />
+
 2. **Visualization of Loss and Accuracy**:  
    The training and validation loss, as well as accuracy, are plotted to visualize the model’s performance over time. These plots help us understand how well the model is learning during training and whether it is overfitting or generalizing well to the validation data.
 
    - **Loss**: Tracks how well the model minimizes the loss function during training.
    - **Accuracy**: Tracks the percentage of correct predictions the model makes on both training and validation data.
+
+<img src="doc/picture_2.png" />
 
 ## **📉 Results**
 
