@@ -14,6 +14,21 @@ In this project, I am tackling an exciting challenge: **classifying tweets** to 
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
+## 🌟 Explore My Other Deep Learning Projects! 🌟  
+
+If you found this project intriguing, I invite you to check out my other cutting-edge deep learning initiatives:  
+
+### 📰 Fighting Misinformation: Source-Based Fake News Classification 🕵️‍♂️  
+In a world plagued by fake news, this project tackles the challenge of **authenticity in journalism**. Using **source-based analysis** and **machine learning**, I aim to classify news articles as real or fake, promoting a more informed and responsible media ecosystem.
+
+### 💳 Fraud Detection Model with Deep Neural Networks (DNN)  
+Fraudulent transactions can cause immense financial losses. This project leverages **Deep Neural Networks** to detect fraud in financial data, even in highly imbalanced datasets. Learn about my process, from **Exploratory Data Analysis (EDA)** to building a **scalable and efficient solution** for fraud detection. 
+
+### 🛡️ IoT Network Malware Classifier with Deep Learning Neural Network Architecture 🚀  
+The Internet of Things (IoT) is transforming the world, but it also introduces new security challenges. This project leverages **Deep Learning Neural Networks** to classify and detect malware in IoT network traffic. By analyzing patterns with AI, it provides **proactive cybersecurity solutions** to safeguard interconnected devices. Explore the intricate process of model design and training with the **Keras framework**, detailed in the accompanying Jupyter Notebook.
+
+Take a dive into these projects to see how **deep learning** is solving real-world problems and shaping the future of AI applications. Let's innovate together! 🚀
+
 ## **📊 Dataset Overview**
 
 ### **🗺️ The Dataset**
