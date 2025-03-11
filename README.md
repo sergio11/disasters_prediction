@@ -2,6 +2,13 @@
 
 In this project, I am tackling an exciting challenge: **classifying tweets** to determine whether they’re related to disasters or not. Using cutting-edge **deep learning** techniques, this model sifts through tweet data and helps us understand how **social media** reacts to crises in real-time. Inspired by the **"NLP with Disaster Tweets"** challenge, this project is enhanced with additional data to give us deeper insights into disaster-related topics.
 
+## ⚠️ Disclaimer  
+**This project was developed for educational and research purposes only.** It is an academic exploration of **deep learning techniques for classifying disaster-related tweets**.  
+
+The models and analyses presented in this repository **are not intended for real-world emergency response or crisis management**. They serve as a proof of concept and have not been rigorously validated for reliability, accuracy, or bias in diverse social media environments.  
+
+While this project leverages publicly available datasets and references existing research, **users should not rely on its outputs for making emergency decisions or disseminating crisis-related information**. Always verify critical information from official sources.  
+
 <p align="center">
    <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -178,6 +185,14 @@ I am not stopping here! There’s still a lot of potential to enhance this proje
 - [Keras Documentation](https://keras.io/)
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [NLP with Disaster Tweets Challenge](https://www.kaggle.com/c/nlp-getting-started)
+
+## ⚠️ Disclaimer  
+**This project was developed for educational and research purposes only.** It is an academic exploration of **deep learning techniques for classifying disaster-related tweets**.  
+
+The models and analyses presented in this repository **are not intended for real-world emergency response or crisis management**. They serve as a proof of concept and have not been rigorously validated for reliability, accuracy, or bias in diverse social media environments.  
+
+While this project leverages publicly available datasets and references existing research, **users should not rely on its outputs for making emergency decisions or disseminating crisis-related information**. Always verify critical information from official sources.  
+
 
 ## **🙏 Acknowledgments**
 
