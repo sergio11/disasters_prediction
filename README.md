@@ -1,6 +1,12 @@
-# 🌍 Advanced Classification of Disaster-Related Tweets Using Deep Learning 🚨
+# 🌍 Classifying Disaster Tweets — A Deep Learning Journey 🚨
 
-In this project, I am tackling an exciting challenge: **classifying tweets** to determine whether they’re related to disasters or not. Using cutting-edge **deep learning** techniques, this model sifts through tweet data and helps us understand how **social media** reacts to crises in real-time. Inspired by the **"NLP with Disaster Tweets"** challenge, this project is enhanced with additional data to give us deeper insights into disaster-related topics.
+During my learning journey in **Natural Language Processing (NLP)** and **Deep Learning**, I came across the Kaggle project [“NLP with Disaster Tweets”](https://www.kaggle.com/competitions/nlp-getting-started), which inspired me to explore how AI can help identify disaster-related tweets in real-time. In a world where Twitter often serves as the first source of information during crises, being able to classify and differentiate between useful and irrelevant tweets is a key skill for **crisis management** applications.
+
+For this project, I built a **Deep Learning** model using **LSTM** and **CNN** architectures to analyze tweets and determine whether they were related to disasters. I applied a variety of **Natural Language Processing (NLP)** techniques such as tokenization, noise removal, and hyperparameter tuning to ensure the model could accurately distinguish relevant tweets amidst a flood of unrelated data.
+
+Thanks to the dataset provided by **Vstepanenko** on [Kaggle](https://www.kaggle.com/datasets/vstepanenko/disaster-tweets), I was able to train the model with real-world disaster tweet data. This served as an incredible starting point for experimenting with **TensorFlow** and **Keras**, while sharpening my skills in **Deep Learning** and **NLP**. Throughout the process, I learned about the importance of performance evaluation using metrics like accuracy, recall, and F1-score, as well as tackling the challenge of working with imbalanced datasets.
+
+What excited me the most about this project was the **practical application of AI** in such a meaningful context. In the end, not only did I enhance my technical abilities, but I also reflected on how AI models can have a real impact, assisting in emergency situations and improving real-time decision-making.
 
 <p align="center">
    <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
