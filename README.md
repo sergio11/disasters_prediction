@@ -210,11 +210,6 @@ A huge **thank you** to **Vstepanenko** for providing the dataset that made this
 
 <img width="auto" src="https://profile-counter.glitch.me/disasters_prediction/count.svg" />
 
-## Please Share & Star the repository to keep me motivated.
-<a href = "https://github.com/sergio11/disasters_prediction/stargazers">
-   <img src = "https://img.shields.io/github/stars/sergio11/disasters_prediction" />
-</a>
-
 ## License ⚖️
 
 This project is licensed under the MIT License, an open-source software license that allows developers to freely use, copy, modify, and distribute the software. 🛠️ This includes use in both personal and commercial projects, with the only requirement being that the original copyright notice is retained. 📄
